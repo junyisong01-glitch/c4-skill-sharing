@@ -62,7 +62,8 @@
 ├── challenge-breakdown-assistant.skill   # 打包好的技能文件（可直接导入）
 ├── docs/
 │   ├── 宋俊毅_C4_skill说明.md
-│   └── 宋俊毅_C4_教学说明.md
+│   ├── 宋俊毅_C4_教学说明.md
+│   └── 宋俊毅_C4_AI日志.md
 └── assets/
     └── demo.png                  # 使用效果演示
 ```
